@@ -162,3 +162,10 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
+
+##Updated AUTHORS✒️
+---
+
+* [SOHAIL CHAREF](https://github.com/SohailPro12/)  - LinkedIn profile (https://www.linkedin.com/in/sohail-charef/)
+* [Mohamed Chatr](https://github.com/Mochatr/) -  LinkedIn profile (https://www.linkedin.com/in/mochatr/)
+<br>
