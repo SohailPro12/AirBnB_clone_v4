@@ -78,8 +78,13 @@ button:hover {
     margin: 0px;
 }
 
-.locations .popover {
-    margin-top: 0%;
+.locations .popover > li {
+    margin-bottom: 30px;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
 }
 .popover ul {
     list-style-type: none;
@@ -89,6 +94,11 @@ button:hover {
 .popover ul li{
     padding: 4px;
     padding-left: 10px;
+}
+.locations > .popover > li > ul {
+    padding-left: 20px;
+    flex: 0 1 100%;
+    margin-top: 5px;
 }
 
 .popover ul h2{
@@ -100,4 +110,9 @@ button:hover {
 .amenities:hover .popover,
 .locations:hover .popover {
     visibility: visible;
+}
+.amenities > .popover > li > input {
+    li > input {
+        margin-right: 10px;
+    }
 }
